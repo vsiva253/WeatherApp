@@ -8,7 +8,6 @@ Key Features:
 - Seamless Integration: Integrates with the OpenWeatherMap API to fetch weather data effortlessly.
 - Responsive Design: Built using Flutter, WeatherApp ensures a responsive and visually appealing user interface across multiple devices.
 - Modular Structure: Follows a modular architecture, allowing developers to extend functionality and add new features with ease.
-- Internationalization (i18n): Supports multiple languages, making it accessible to users worldwide.
 - Customization: Offers flexibility for developers to customize the app's design, layout, and features to suit their preferences.
 - Open Source: Licensed under the MIT License, WeatherApp encourages collaboration and contributions from the developer community.
 
